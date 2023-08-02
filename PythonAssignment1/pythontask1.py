@@ -108,6 +108,7 @@ def helpabs():
 helpabs()
 
 
+
 """12. What is the output of this code when run from python interpreter.
 print(__name__)"""
 def fun1():
