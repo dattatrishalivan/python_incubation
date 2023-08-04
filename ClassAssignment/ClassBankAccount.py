@@ -24,7 +24,6 @@ class BankAccount:
     def __str__(self):
         print(f'Thank you {self.name} for using service  your remaiming balance is {self.balance}')
 
-
 b = BankAccount()
 dep = int(input("enter amount to deposit : "))
 wit = int(input("enter amount to withdrawl : "))
